@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\c# Uppgifter\Berättelse del 2 OOP\bin\Debug\Berättelse del 2 OOP.exe.config
+C:\Users\John\Desktop\c# Uppgifter\Berättelse del 2 OOP\bin\Debug\Berättelse del 2 OOP.exe
+C:\Users\John\Desktop\c# Uppgifter\Berättelse del 2 OOP\bin\Debug\Berättelse del 2 OOP.pdb
+C:\Users\John\Desktop\c# Uppgifter\Berättelse del 2 OOP\obj\Debug\Berättelse del 2 OOP.csprojAssemblyReference.cache
+C:\Users\John\Desktop\c# Uppgifter\Berättelse del 2 OOP\obj\Debug\Berättelse del 2 OOP.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\c# Uppgifter\Berättelse del 2 OOP\obj\Debug\Berättelse del 2 OOP.exe
+C:\Users\John\Desktop\c# Uppgifter\Berättelse del 2 OOP\obj\Debug\Berättelse del 2 OOP.pdb
